@@ -1,0 +1,4 @@
+/data/
+!/data/.gitkeep
+auth.json
+.DS_Store
